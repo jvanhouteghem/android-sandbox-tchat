@@ -1,6 +1,6 @@
 # android-tchat
 
-Step 2 : Create TchatActivity
+Step 3 : Add Login in SignInActivity
 ---
 
 In this step we will update the first activity to login to a webservice. Then if the login success we will be send to TchatActivity.
