@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-tchat</string>
+    <string name="error_login">erreur_login_value</string>
+    <string name="url_signin">http://cesi.cleverapps.io/signin</string>
+</resources>

@@ -3,8 +3,8 @@
 Step 2 : Create TchatActivity
 ---
 
-In this step we will create a new activity called TchatActivity, update the first activity to login to a webservice and if the login success 
-we want to go to TchatActivity.
+In this step we will create a new activity called TchatActivity and create a link between LoginActivity and TchatActivity.
+We will also pass a variable when we open the new activity.
 
 A. Create TchatActivity and activity_tchat.xml
 ---
